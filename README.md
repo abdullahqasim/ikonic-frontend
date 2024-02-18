@@ -10,6 +10,11 @@ Clone the Project:
 git clone git@github.com:abdullahqasim/ikonic-frontend.git
 ```
 
+change directory
+```bash
+cd ikonic-frontend
+```
+
 Install dependencies:
 
 ```bash
